@@ -9,7 +9,10 @@ function Nav() {
                 <Link href="/about">About</Link>
             </li>
             <li>
-                <Link href="/contact">contact</Link>
+                <Link href="/contact">Contact</Link>
+            </li>
+            <li>
+                <Link href="/products">Products</Link>
             </li>
             
         </ul>
