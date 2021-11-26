@@ -1,4 +1,5 @@
 import Head  from "next/dist/shared/lib/head"
+import Script from "next/Script";
 function Header() {
     return (
         <>
@@ -8,7 +9,7 @@ function Header() {
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content />
+    <meta name="deScription" content />
     <meta name="author" content />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link
@@ -23,12 +24,12 @@ function Header() {
     <link rel="stylesheet" href="assets/css/templatemo-digimedia-v3.css" />
     <link rel="stylesheet" href="assets/css/animated.css" />
     <link rel="stylesheet" href="assets/css/owl.css" />
-    <script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
-  <script  type="text/javascript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script type="text/javascript" src="assets/js/owl-carousel.js"></script>
-  <script type="text/javascript" src="assets/js/animation.js"></script>
-  <script type="text/javascript" src="assets/js/imagesloaded.js"></script>
-  <script type="text/javascript" src="assets/js/custom.js"></script>
+    <Script type="text/javaScript" src="vendor/jquery/jquery.min.js"></Script>
+  <Script  type="text/javaScript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></Script>
+  <Script type="text/javaScript" src="assets/js/owl-carousel.js"></Script>
+  <Script type="text/javaScript" src="assets/js/animation.js"></Script>
+  <Script type="text/javaScript" src="assets/js/imagesloaded.js"></Script>
+  <Script type="text/javaScript" src="assets/js/custom.js"></Script>
      
         </Head>
 
