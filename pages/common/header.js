@@ -1,5 +1,5 @@
 import Head  from "next/dist/shared/lib/head"
-import Script from "next/Script";
+import Script from "next/script";
 function Header() {
     return (
         <>
@@ -24,13 +24,7 @@ function Header() {
     <link rel="stylesheet" href="assets/css/templatemo-digimedia-v3.css" />
     <link rel="stylesheet" href="assets/css/animated.css" />
     <link rel="stylesheet" href="assets/css/owl.css" />
-    <Script type="text/javaScript" src="vendor/jquery/jquery.min.js"></Script>
-  <Script  type="text/javaScript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></Script>
-  <Script type="text/javaScript" src="assets/js/owl-carousel.js"></Script>
-  <Script type="text/javaScript" src="assets/js/animation.js"></Script>
-  <Script type="text/javaScript" src="assets/js/imagesloaded.js"></Script>
-  <Script type="text/javaScript" src="assets/js/custom.js"></Script>
-     
+    
         </Head>
 
          {/* ***** Preloader Start ***** */}
