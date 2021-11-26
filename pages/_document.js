@@ -17,12 +17,12 @@ class MyDocument extends Document {
   }
 
   render() {
-    const mainurl =  "vendor/jquery/jquery.min.js";
-    const url1 = "vendor/bootstrap/js/bootstrap.bundle.min.js"
-    const url2 =  "assets/js/owl-carousel.js"
-    const url3 =  "assets/js/animation.js"
-    const url4 =  "assets/js/imagesloaded.js"
-    const url5 =  "assets/js/custom.js"
+    const mainurl =  "/vendor/jquery/jquery.min.js";
+    const url1 = "/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    const url2 =  "/assets/js/owl-carousel.js"
+    const url3 =  "/assets/js/animation.js"
+    const url4 =  "/assets/js/imagesloaded.js"
+    const url5 =  "/assets/js/custom.js"
     return (
       <Html>
         <Head>
