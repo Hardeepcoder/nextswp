@@ -89,12 +89,12 @@ function Home() {
                     <a
                       rel="nofollow"
                       href="http://paypal.me/templatemo"
-                      target="_blank"
+                      
                     >
                       contribute a little amount
                     </a>{" "}
                     via PayPal to{" "}
-                    <a href="https://templatemo.com/contact" target="_blank">
+                    <a href="https://templatemo.com/contact" >
                       support TemplateMo
                     </a>{" "}
                     in creating new templates regularly.

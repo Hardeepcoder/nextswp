@@ -118,7 +118,7 @@ function Header() {
                   <a href="#blog">Blog</a>
                 </li>
                 <li className="scroll-to-section">
-                  <a href="#contact">Contact</a>
+                  <a href="#contact">Contact Us</a>
                 </li>
                 <li className="scroll-to-section">
                   <div className="border-first-button">
