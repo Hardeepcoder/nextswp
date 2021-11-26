@@ -23,6 +23,7 @@ function Header() {
     <link rel="stylesheet" href="assets/css/templatemo-digimedia-v3.css" />
     <link rel="stylesheet" href="assets/css/animated.css" />
     <link rel="stylesheet" href="assets/css/owl.css" />
+     
         </Head>
 
          {/* ***** Preloader Start ***** */}

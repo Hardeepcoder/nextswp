@@ -1,4 +1,3 @@
-import Script from 'next/Script'
 function Footer() {
     return (
         <>
@@ -14,12 +13,12 @@ function Footer() {
         </div>
       </div>
     </footer>
-    <Script src="vendor/jquery/jquery.min.js"></Script>
-  <Script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></Script>
-  <Script src="assets/js/owl-carousel.js"></Script>
-  <Script src="assets/js/animation.js"></Script>
-  <Script src="assets/js/imagesloaded.js"></Script>
-  <Script src="assets/js/custom.js"></Script>
+    <script  type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
+  <script  type="text/javascript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="assets/js/owl-carousel.js"></script>
+  <script type="text/javascript" src="assets/js/animation.js"></script>
+  <script type="text/javascript" src="assets/js/imagesloaded.js"></script>
+  <script type="text/javascript" src="assets/js/custom.js"></script>
         </>
     )
 }
