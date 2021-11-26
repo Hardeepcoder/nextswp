@@ -7,25 +7,8 @@ function Footer() {
         <div className="row">
           <div className="col-lg-12">
             <p>
-              Copyright © 2022 DigiMedia Co., Ltd. All Rights Reserved.
-              <br />
-              Design:{" "}
-              <a
-                href="https://templatemo.com"
-                target="_parent"
-                title="free css templates"
-              >
-                TemplateMo
-              </a>
-              <br />
-              Distributed By:{" "}
-              <a
-                href="https://themewagon.com"
-                target="_blank"
-                title="free css templates"
-              >
-                ThemeWagon
-              </a>
+              Copyright © 2021
+             
             </p>
           </div>
         </div>
