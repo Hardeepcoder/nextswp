@@ -23,6 +23,12 @@ function Header() {
     <link rel="stylesheet" href="assets/css/templatemo-digimedia-v3.css" />
     <link rel="stylesheet" href="assets/css/animated.css" />
     <link rel="stylesheet" href="assets/css/owl.css" />
+    <script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
+  <script  type="text/javascript" src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="assets/js/owl-carousel.js"></script>
+  <script type="text/javascript" src="assets/js/animation.js"></script>
+  <script type="text/javascript" src="assets/js/imagesloaded.js"></script>
+  <script type="text/javascript" src="assets/js/custom.js"></script>
      
         </Head>
 
